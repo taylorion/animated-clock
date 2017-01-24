@@ -29,9 +29,12 @@ html {
   position: relative;
   top: 65%;
   left: 50%;
-
 }
 
 .hand-minute {
-
+  transform-origin: center bottom;
+  animation: spin 1s infinite linear;
+  position: relative;
+  top: 65px;
+  left: 40%;
 }
