@@ -13,10 +13,14 @@ html {
 
 .center {
   width: 28px;
+  position: absolute;
+  left: 45%;
+  top: 135%;
 }
 
 .hand {
   width: 14px;
+  position: absolute;
 }
 
 .hand-hour {
