@@ -24,6 +24,11 @@ html {
 }
 
 .hand-hour {
+  transform-origin: center bottom;
+  animation: spin 6s infinite linear;
+  position: relative;
+  top: 65%;
+  left: 50%;
 
 }
 
